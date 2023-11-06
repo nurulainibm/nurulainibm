@@ -1,6 +1,8 @@
 Hi, I’m Nurulain!
 
-- ✨ I’m interested in statistics, machine learning and cardiovascular research. 
+- ✨ I’m interested in statistics, machine learning and cardiovascular research.
+- 📄 My published work can be accessed [here](https://www.researchgate.net/profile/Nurulain-Ibrahim).
+- 📓 Currently learning SQL and PowerBi.
 - 📫 I can be reached at nurulainibm@gmail.com. 
 
 <!---

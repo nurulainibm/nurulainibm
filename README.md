@@ -1,9 +1,12 @@
 Hi, I’m Nurulain!
 
-- ✨ I’m interested in statistics, machine learning and cardiovascular research.
-- 📄 My published work on ML applications in healthcare can be accessed [here](https://www.researchgate.net/profile/Nurulain-Ibrahim).
-- 📓 Currently learning SQL and PowerBi.
-- 📫 I can be reached at nurulainibm@gmail.com. 
+❤️ I’m interested in statistics, machine learning and cardiovascular research.
+
+✒️ My published work on ML applications in healthcare can be accessed [here](https://www.researchgate.net/profile/Nurulain-Ibrahim).
+
+📘 Currently learning SQL and PowerBi.
+
+📧 I can be reached at nurulainibm@gmail.com. 
 
 ---
 
@@ -15,6 +18,10 @@ Hi, I’m Nurulain!
   <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Tableau" width="60" height="60"/>&nbsp;
 </div>
 
+---
+
+### :chart_with_upwards_trend: My Stats: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nurulainibm)](https://git.io/streak-stats)
 
 
 <!---

@@ -4,7 +4,7 @@ Hi, I’m Nurulain!
 
 ✒️ My published work on ML applications in healthcare can be accessed [here](https://www.researchgate.net/profile/Nurulain-Ibrahim).
 
-📘 Currently learning SQL and PowerBi.
+📘 Currently learning SQL and PowerBI.
 
 📧 I can be reached at nurulainibm@gmail.com. 
 
